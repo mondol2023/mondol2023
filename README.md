@@ -50,7 +50,7 @@ Python • PHP • JavaScript • TypeScript • C • C++
 ## Featured Projects
 
 ### E-commerce Platform
-Django + Redis + Celery + React                                    <img width="500" height="500" alt="coding-boy" src="https://github.com/user-attachments/assets/8066ad26-4323-4c15-b3e6-2df2b00317cb" />
+Django + Redis + Celery + React                                    
 
 ### Hospital Management System
 Node.js + Express + MongoDB
@@ -79,6 +79,7 @@ Node.js + MongoDB
 ![GitHub Streak](https://streak-stats.demolab.com?user=mondol2023&theme=tokyonight&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mondol2023&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![](https://komarev.com/ghpvc/?username=mondol2023&color=blue)
