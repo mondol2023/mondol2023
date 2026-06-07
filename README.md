@@ -71,3 +71,9 @@ Node.js + MongoDB
 - HackerRank
 - NeetCode
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mondol2023&show_icons=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondol2023&layout=compact)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mondol2023)
+
