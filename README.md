@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="coding-boy" src="https://github.com/user-attachments/assets/8066ad26-4323-4c15-b3e6-2df2b00317cb" />
+
 
 ## Hi there 👋
 
@@ -50,7 +50,7 @@ Python • PHP • JavaScript • TypeScript • C • C++
 ## Featured Projects
 
 ### E-commerce Platform
-Django + Redis + Celery + React
+Django + Redis + Celery + React                                    <img width="500" height="500" alt="coding-boy" src="https://github.com/user-attachments/assets/8066ad26-4323-4c15-b3e6-2df2b00317cb" />
 
 ### Hospital Management System
 Node.js + Express + MongoDB
