@@ -1,16 +1,72 @@
 ## Hi there 👋
 
-<!--
-**mondol2023/mondol2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdullah Al Mamun
 
-Here are some ideas to get you started:
+Full Stack Web Developer specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Django
+- Laravel
+- Node.js
+- React js
+- Express js
+- Python
+- TypeScript
+- PostgreSQL
+- MongoDB
+- Docker
+
+Currently focusing on scalable fullstack systems, API design and distributed applications.
+
+---
+
+## Tech Stack
+
+### Backend
+Django • Laravel • Node.js • Express.js
+
+### Frontend
+React • Vue.js • TypeScript • TailwindCSS • HTML  • CSS
+
+### Database
+PostgreSQL • MongoDB • MySQL
+
+### DevOps
+Docker • GitHub Actions
+
+### Languages
+Python • PHP • JavaScript • TypeScript • C • C++
+
+---
+
+## Featured Projects
+
+### E-commerce Platform
+Django + Redis + Celery + React
+
+### Hospital Management System
+Node.js + Express + MongoDB
+
+### Library Management System
+Django + DRF
+
+### Paid Parking System
+Django + PostgreSQL
+
+### Real Estate Management System
+Node.js + MongoDB
+
+---
+
+## Competitive Programming
+
+- LeetCode
+- HackerRank
+- NeetCode
+
+---
+
+## Contact
+
+LinkedIn
+Email
+Portfolio
