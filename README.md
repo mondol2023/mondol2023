@@ -29,7 +29,7 @@ Currently focusing on scalable fullstack systems, API design and distributed app
 
 
 -----
-## Tech Stack
+##  🚀 Tech Stack
 
 ### Backend
 Django • Laravel • Node.js • Express.js
@@ -72,9 +72,9 @@ Node.js + MongoDB
 - HackerRank
 - NeetCode
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mondol2023&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mondol2023&show_icons=true&theme=tokyonight&hide_border=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondol2023&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mondol2023&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=mondol2023)
+![GitHub Streak](https://streak-stats.demolab.com?user=mondol2023&theme=tokyonight&hide_border=true)
 
