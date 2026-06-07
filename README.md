@@ -1,19 +1,10 @@
 ## Hi there 👋
 
-I'm Abdullah Al Mamun
+# Abdullah Al Mamun
 
-Full Stack Web Developer specializing in:
+Backend-Focused Full Stack Developer from Bangladesh 🇧🇩
 
-- Django
-- Laravel
-- Node.js
-- React js
-- Express js
-- Python
-- TypeScript
-- PostgreSQL
-- MongoDB
-- Docker
+I build scalable web applications, REST APIs, authentication systems, and database-driven platforms using Django, Laravel, Node.js, React, and Docker.
 
 Currently focusing on scalable fullstack systems, API design and distributed applications.
 
@@ -30,6 +21,11 @@ Currently focusing on scalable fullstack systems, API design and distributed app
 
 -----
 ##  🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Django](https://img.shields.io/badge/Django-Backend-success)
+![Laravel](https://img.shields.io/badge/Laravel-PHP-red)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Docker](https://img.shields.io/badge/Docker-DevOps-informational)
 
 ### Backend
 Django • Laravel • Node.js • Express.js
@@ -77,4 +73,9 @@ Node.js + MongoDB
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mondol2023&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mondol2023&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mondol2023&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](https://komarev.com/ghpvc/?username=mondol2023&color=blue)
 
