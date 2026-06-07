@@ -1,3 +1,5 @@
+<img width="500" height="500" alt="coding-boy" src="https://github.com/user-attachments/assets/8066ad26-4323-4c15-b3e6-2df2b00317cb" />
+
 ## Hi there 👋
 
 # Abdullah Al Mamun
@@ -18,6 +20,8 @@ Currently focusing on scalable fullstack systems, API design and distributed app
     🔧 Also exploring Vue.js and Laravel  for full-stack projects
     ✉️ Contact me: abm20154@gmail.com
 
+
+<img width="1024" height="512" alt="boy-coding" src="https://github.com/user-attachments/assets/211dd7a8-7c79-4aa3-b828-18fef29776c5" />
 
 -----
 ##  🚀 Tech Stack
