@@ -37,6 +37,14 @@ Docker • GitHub Actions
 Python • PHP • JavaScript • TypeScript • C • C++
 
 ---
+👨‍💻 About Me
+
+    👋 Hi, I’m Abdullah Al Mamun, a passionate Web developer
+    🧠 Skilled in backend development using Django and Express js
+    ⚡ Skilled in frontend development using React js ,HTML and CSS
+    🔧 Also exploring Vue.js and Laravel  for full-stack projects
+    ✉️ Contact me: abm20154@gmail.com
+
 
 ## Featured Projects
 
@@ -63,10 +71,3 @@ Node.js + MongoDB
 - HackerRank
 - NeetCode
 
----
-
-## Contact
-
-LinkedIn
-Email
-Portfolio
