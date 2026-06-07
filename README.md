@@ -18,7 +18,17 @@ Full Stack Web Developer specializing in:
 Currently focusing on scalable fullstack systems, API design and distributed applications.
 
 ---
+---
+👨‍💻 About Me
 
+    👋 Hi, I’m Abdullah Al Mamun, a passionate Web developer
+    🧠 Skilled in backend development using Django and Express js
+    ⚡ Skilled in frontend development using React js ,HTML and CSS
+    🔧 Also exploring Vue.js and Laravel  for full-stack projects
+    ✉️ Contact me: abm20154@gmail.com
+
+
+-----
 ## Tech Stack
 
 ### Backend
@@ -35,15 +45,6 @@ Docker • GitHub Actions
 
 ### Languages
 Python • PHP • JavaScript • TypeScript • C • C++
-
----
-👨‍💻 About Me
-
-    👋 Hi, I’m Abdullah Al Mamun, a passionate Web developer
-    🧠 Skilled in backend development using Django and Express js
-    ⚡ Skilled in frontend development using React js ,HTML and CSS
-    🔧 Also exploring Vue.js and Laravel  for full-stack projects
-    ✉️ Contact me: abm20154@gmail.com
 
 
 ## Featured Projects
