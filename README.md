@@ -40,11 +40,11 @@ Currently focusing on scalable fullstack systems, API design and distributed app
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
 ![C](https://img.shields.io/badge/C-Intermediate-darkblue)
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-blue)
-![PHP](https://img.shields.io/badge/PHP-Expert-purple)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-purple)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-informational)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-green)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
 
 ### Backend
 Django • Laravel • Node.js • Express.js
