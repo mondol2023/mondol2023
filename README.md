@@ -25,14 +25,26 @@ Currently focusing on scalable fullstack systems, API design and distributed app
 
 -----
 ##  🚀 Tech Stack
+
+
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Django](https://img.shields.io/badge/Django-Backend-success)
-![Laravel](https://img.shields.io/badge/Laravel-PHP-red)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![Docker](https://img.shields.io/badge/Docker-DevOps-informational)
-![C](https://img.shields.io/badge/C-Expert-blue)
-![C++](https://img.shields.io/badge/C++-Expert-blue)
-![Node](https://img.shields.io/badge/Node-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![Express.js](https://img.shields.io/badge/Express.js-Expert-lightgrey)
+![Vue.js](https://img.shields.io/badge/Vue.js-Expert-brightgreen)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue)
+![Django](https://img.shields.io/badge/Django-Expert-success)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+![C](https://img.shields.io/badge/C-Intermediate-darkblue)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-blue)
+![PHP](https://img.shields.io/badge/PHP-Expert-purple)
+![Docker](https://img.shields.io/badge/Docker-Advanced-informational)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-green)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange)
 
 ### Backend
 Django • Laravel • Node.js • Express.js
@@ -44,7 +56,7 @@ React • Vue.js • TypeScript • TailwindCSS • HTML  • CSS
 PostgreSQL • MongoDB • MySQL
 
 ### DevOps
-Docker • GitHub Actions
+Docker • GitHub Actions • Linux
 
 ### Languages
 Python • PHP • JavaScript • TypeScript • C • C++
