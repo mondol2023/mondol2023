@@ -30,6 +30,9 @@ Currently focusing on scalable fullstack systems, API design and distributed app
 ![Laravel](https://img.shields.io/badge/Laravel-PHP-red)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Docker](https://img.shields.io/badge/Docker-DevOps-informational)
+![C](https://img.shields.io/badge/C-Expert-blue)
+![C++](https://img.shields.io/badge/C++-Expert-blue)
+![Node](https://img.shields.io/badge/Node-Expert-blue)
 
 ### Backend
 Django • Laravel • Node.js • Express.js
