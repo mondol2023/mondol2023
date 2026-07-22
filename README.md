@@ -89,9 +89,13 @@ Node.js + MongoDB
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mondol2023&show_icons=true&theme=tokyonight&hide_border=true)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mondol2023&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mondol2023&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mondol2023&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mondol2023&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mondol2023&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
