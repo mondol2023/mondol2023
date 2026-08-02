@@ -71,7 +71,7 @@ Django + Redis + Celery + React
 Node.js + Express + MongoDB
 
 ### Library Management System
-Django + DRF
+Django + DRF + React JS + PostgreSql
 
 ### Paid Parking System
 Django + PostgreSQL
