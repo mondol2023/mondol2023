@@ -68,7 +68,7 @@ Python • PHP • JavaScript • TypeScript • C • C++
 Django + Redis + Celery + React                                    
 
 ### Hospital Management System
-Node.js + Express + MongoDB
+Node.js + Express + MongoDB + Redis + BullMQ
 
 ### Library Management System
 Django + DRF + React JS + PostgreSql
