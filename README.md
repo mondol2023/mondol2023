@@ -80,7 +80,7 @@ Django + PostgreSQL
 Node.js + MongoDB + Express Js
 
 ### Webcrawler 
-Node.js + MongoDB + Express Js + React Js
+Node.js + MongoDB Atlas + Express Js + React Js
 
 ---
 
