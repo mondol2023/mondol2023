@@ -82,6 +82,9 @@ Node.js + MongoDB + Express Js
 ### Webcrawler 
 Node.js + MongoDB Atlas + Express Js + React Js
 
+### Animated Portfolio 
+Node.js + FireBase + React Js
+
 ---
 
 ## Competitive Programming
