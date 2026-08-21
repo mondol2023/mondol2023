@@ -83,7 +83,7 @@ Node.js + MongoDB + Express Js
 Node.js + MongoDB Atlas + Express Js + React Js
 
 ### Animated Portfolio 
-Node.js + FireBase + React Js
+Node.js + FireBase + React Js+ Typescript 
 
 ---
 
