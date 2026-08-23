@@ -59,7 +59,7 @@ I specialize in building scalable web applications, robust REST APIs, authentica
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/211dd7a8-7c79-4aa3-b828-18fef29776c5" alt="Developer Coding Illustration" width="100%" />
+      <img src="https://img.magnific.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_1284-68939.jpg" alt="Fullstack Engineering" width="100%" />
     </td>
   </tr>
 </table>
