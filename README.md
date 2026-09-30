@@ -64,6 +64,9 @@ Python • PHP • JavaScript • TypeScript • C • C++
 
 ## Featured Projects
 
+###Banglabijoy2uni
+React Js 19 + Nextjs 16+ Typescript+ Firebase + Zod+ Node.js +  Tailwindcss+ Motion + Three.js
+
 ### E-commerce Platform
 Django + Redis + Celery + React                                    
 
