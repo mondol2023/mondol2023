@@ -47,10 +47,10 @@ Currently focusing on scalable fullstack systems, API design and distributed app
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
 
 ### Backend
-Django • Laravel • Node.js • Express.js
+Django • Laravel • Node.js • Express.js  • PHP
 
 ### Frontend
-React • Vue.js • TypeScript • TailwindCSS • HTML  • CSS
+React js • Vue.js  • Next.JS • TypeScript • TailwindCSS • HTML  • CSS
 
 ### Database
 PostgreSQL • MongoDB • MySQL
@@ -64,8 +64,11 @@ Python • PHP • JavaScript • TypeScript • C • C++
 
 ## Featured Projects
 
-###Banglabijoy2uni
-React Js 19 + Nextjs 16+ Typescript+ Firebase + Zod+ Node.js +  Tailwindcss+ Motion + Three.js
+### Banglabijoy2uni( legacy font converter and OCR extractor)
+React Js 19 + Nextjs 16 + Typescript + Firebase + Zod + Node.js +  Tailwindcss+ Motion + Three.js
+
+### Webcrawler 
+Node.js + MongoDB Atlas + Express Js + React Js
 
 ### E-commerce Platform
 Django + Redis + Celery + React                                    
@@ -77,16 +80,13 @@ Node.js + Express + MongoDB + Redis + BullMQ
 Django + DRF + React JS + PostgreSql
 
 ### Paid Parking System
-Django + PostgreSQL
+Django + PostgreSQL + React js
 
 ### Real Estate Management System
 Node.js + MongoDB + Express Js
 
-### Webcrawler 
-Node.js + MongoDB Atlas + Express Js + React Js
-
 ### Animated Portfolio 
-Node.js + FireBase + React Js+ Typescript 
+Node.js + Next.Js + FireBase + React Js+ Typescript 
 
 ---
 
